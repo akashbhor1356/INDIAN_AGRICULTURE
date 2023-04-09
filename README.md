@@ -6,7 +6,7 @@
 <h1 align="center"> INDIAN_AGRICULTURE  </h1> 
      
 
-<h3 align="center"> Feynn Labs verified Project 
+<h3 align="center"> 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
